@@ -6,7 +6,7 @@ A game project guided by Per Harald Borgen, the co-founder and CEO of Scrimba.
 
 ## Links
 
-- Live Site URL: [Deployment](https://iqadmat.github.io/blackjack/)
+- Live Site URL: [GitHub Pages](https://iqadmat.github.io/blackjack/) - [Netlify](https://jazzy-bienenstitch-7c368d.netlify.app/)
 
 ## Author
 
